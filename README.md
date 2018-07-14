@@ -14,7 +14,7 @@ Pre-requisites
 Getting Started
 ---------------
 
-This project is an implementation of the group messenger app with ordering guarantees. To test the system, clone the whole project and open it in Android Studio.
+This project is an implementation of the group messenger app with ordering guarantees. To test the app, clone the whole project and open it in Android Studio.
 
 
 Testing
