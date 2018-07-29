@@ -1,4 +1,4 @@
-FIFO-Total-Group-Messenger
+Group-Messenger
 ===================================
 
 Pre-requisites
